@@ -9,7 +9,7 @@
     "maximum": 10
   },
   "authors": [{
-    "name": "Asacolips"
+    "name": "Mark"
   }],
   "esmodules": ["module/rb.mjs"],
   "styles": ["css/rb.css"],
