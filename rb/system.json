@@ -26,8 +26,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
+  "url": "https://github.com/shilviakaral/rightiousblood1",
+  "manifest": "https://github.com/shilviakaral/rightiousblood1/blob/main/rb/system.json",
   "download": "",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
